@@ -1,8 +1,8 @@
-﻿# virtuallab-robics (BotLabs Studio Ke)
+﻿# virtuallab-robotics (BotLabs Studio Ke)
 
 A browser-based virtual robotics lab for schools. Pick parts from a real kit, wire them, redesign the robot, program it, then test it on 2D and 3D mats. No install and no server needed for the online version.
 
-**Live version: [https://mwenda25.github.io/virtuallab-robics/](https://mwenda25.github.io/virtuallab-robics/)** (opens in your browser)
+**Live version: [https://mwenda25.github.io/virtuallab-robotics/](https://mwenda25.github.io/virtuallab-robotics/)** (opens in your browser)
 
 **Safe by design:** no server, no tracking, and the page loads code only from itself. See [PRIVACY.md](PRIVACY.md) and [SECURITY.md](SECURITY.md).
 
